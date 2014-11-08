@@ -5,3 +5,5 @@ updated test 1
 updated again.
 
 another update.
+
+SmartGit update.
