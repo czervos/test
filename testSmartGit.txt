@@ -1,1 +1,2 @@
 Testing smart git.
+Branch test.
